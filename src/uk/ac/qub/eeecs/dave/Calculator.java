@@ -2,8 +2,7 @@ package uk.ac.qub.eeecs.dave;
 
 public class Calculator {
 	public int add(int a, int b) {
-		int c = a+b;
-		return c+1;
+		return a+b;
 	}
 	
 	public int sub(int a, int b) {
